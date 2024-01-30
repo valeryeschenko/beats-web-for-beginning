@@ -1,0 +1,20 @@
+.bullet {
+	&__list {
+		display: flex;
+	}
+	&__item {
+		display: flex;
+	}
+	&__item:not(:last-child) {
+		margin-right: 8px;
+	}
+	&__icon {
+		width: 39px;
+		height: 39px;
+		margin-right: 11px;
+
+	}
+	&__text {
+		width: 114px;
+	}
+}
