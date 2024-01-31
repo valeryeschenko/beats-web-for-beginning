@@ -44,7 +44,7 @@
 	&__button-group {
 		display: flex;
 	}
-	&__button {
+	&__button:not(:last-child) {
 		margin-right: 15px;
 	}
 	.button--transparent {
