@@ -413,7 +413,7 @@ table {
 
 .tel {
   padding: 0 20px;
-  background: url(../../img/icon/contact-icon/icon-tell.svg) center left/12px no-repeat;
+  background: url(../img/icon/contact-icon/icon-tell.svg) center left/12px no-repeat;
 }
 
 .bullet__list {
@@ -454,7 +454,7 @@ table {
       align-content: space-between;
   padding: 24px 0 65px;
   height: 100%;
-  background: url(../../img/bg-img/beats.png) right center/50% no-repeat;
+  background: url(../img/bg-img/beats.png) right center/50% no-repeat;
 }
 .start__center {
   display: -webkit-box;
@@ -594,7 +594,7 @@ table {
   margin-right: 55px;
 }
 .card__item:not(:nth-child(3n))::before {
-  content: url("../../img/icon/why-icon/Combined-shape.svg");
+  content: url("../img/icon/why-icon/Combined-shape.svg");
   position: absolute;
   top: 60px;
   right: 0;
@@ -716,7 +716,7 @@ table {
 .buy {
   height: 100vh;
   color: #ffffff;
-  background-image: url("../../img/bg-img/form.svg");
+  background-image: url("../img/bg-img/form.svg");
 }
 .buy__title {
   color: #ffffff;
